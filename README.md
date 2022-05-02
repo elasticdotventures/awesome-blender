@@ -466,6 +466,7 @@
 -   VDB Models:
     -   [Free VDB Simulations Created With Embergen](https://jangafx.com/software/embergen/download/free-vdb-animations/), [OpenVDB Sample Models](https://www.openvdb.org/download/), [disneyanimation.com/clouds](https://disneyanimation.com/resources/clouds/), [Free Volume Cloud and Smoke](https://gumroad.com/l/PCJDF), [High Altitude Clouds](https://gumroad.com/l/RcgNe).
 
+
 ### 🤸🏾‍♀️Mocap/Animation [^](#table)
 
 -   [Mixamo](https://www.mixamo.com/) : Animate 3D characters for games, film, and more.
@@ -1095,6 +1096,12 @@ _Some accounts where you can find different kinds of content related to blender.
 -   Support:
     -   [devtalk/python](https://devtalk.blender.org/c/python/6) : Questions about using and developing the [Blender Python API](https://developer.blender.org/project/view/24/), both for Blender itself and add-ons.
     -   [blenderartists/python-support](https://blenderartists.org/c/coding/python-support/19), [stackoverflow/tagged/bpy](https://stackoverflow.com/questions/tagged/bpy)
+
+## Blender Compositional Interfaces w/Parametric Code & OpenSCAD (Geometry As Code)
+- https://github.com/3DLIRIOUS/BlendSCAD OpenSCAD Parametric modelling syntax that can be embedded in blender. Tutorial: [Youtube](https://www.youtube.com/watch?v=aZq8ZlmqHJo)
+- 🦀.rust: https://crates.io/crates/landon
+- 🐍.python: https://docs.blender.org/api/current/index.html
+- 🦄.json: https://www.npmjs.com/package/@anderpang/obj2json
 
 ### Blender Source [^](#table)
 
